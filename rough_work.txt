@@ -1,0 +1,15 @@
+  // Generate RSA key pair (replace with your own key pair in production)
+  const { publicKey, privateKey } = crypto.generateKeyPairSync('rsa', {
+    modulusLength: 2048,
+    publicKeyEncoding: { type: 'spki', format: 'pem' },
+    privateKeyEncoding: { type: 'pkcs8', format: 'pem' }
+  });
+
+
+  // Save keys to files (optional)
+  fs.writeFileSync('publicKey.pem', publicKey);
+  fs.writeFileSync('privateKey.pem', privateKey);
+
+
+  console.log('Encrypted Data:', encryptedData.toString('base64'))
+  console.log('Decrypted Data:', decryptedData.toString('utf8'))

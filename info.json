@@ -1,0 +1,31 @@
+{
+	"fog-node-0": {
+		"address": {
+			"host": "10.5.0.183",
+			"port": 1234
+		}
+	},
+	"fog-node-1": {
+		"address": {
+			"host": "unrLxFbNm15NQv+mQZDmxpiLcSTvT/YMM+cmzIY0E8SSngJ/UU0RwFn1F4XXklN87nlD6RkgSBsOfewodYWLEIyW2haUlz7Ww8cn469/CuxNw0CwoKdpt+34NwZaAsvTOiaRg6yhezzpKfi+nI3OdBe+RDLyuVMMBTfPC13aPL2kTbMAJF4lm0IHRmOUegDNpNsCvxYNrbHqOoCDDATO+xiGPiEcUZmIxThwpIEvXWoEzB+oysmhMC9fU0sjfmvZGjfLXjna/CjQQFdh9lNj69qb0Ef/MfhnJKtIycT9qJjpP2zQASiBh92c97NdyjDh3qIzLfn8DoiYwdv4oHBzRQ==",
+			"port": "UjQY0/UzKPYpYiYyBlsaNLTABsnjPtzJg8dwgiHbwCByRtsZFVnL8fkluBRnzaErYLBKMVrW7TLbCAzi4xCphQ+tBQ3RxWZuP56UCqI5bbd19HPDcvqsG0UCyhvLgVx713iqJl2Bp/4KEaxNWYbF48eCuQHGw60D6ksYifzMjDZq1qZi0/iWkB9hSljet5fF6tbDY/AnCKrkRrWHSgK/jIrObOlHnxgdGTAIKeos9FLWorQZqzf6k2fBsQQjCsRxlfKRYSyLXfJyywKXsTE9vC0lAjxpVGzjNyTqQR1piia+qkwfmXu6dJx5Y6fjvY6Jv9JgJGNLG+XA+u5Ps3U8UQ=="
+		}
+	},
+	"node_2": {
+		"address": {
+			"host": "10.5.0.202",
+			"port": "1235"
+		}
+	},
+	"RemoteWorkstation_VM": {
+		"address": {
+			"host": "OEFJB9NDD+KQDWs6dlOB6FTl+69ogR/GIWu9RrXiiNPpzUWlkUjM3GCeWIQHoXD7ZwdrYCl6vjtqGcLo6ONY+t67onOj/QnrVBaR57KvLMNeaYnPlSWKxCqF+1ToKVPtwwNrzzFvHbZfuFnU1B50c05zYhD7yDGgidqkD2hqfjj3NO4JVI2NlWgBJA6++WvXmRnZZ2VWjp0EjrmgDCoUAL9+jIlcnY4TwalIFzPbsszI23tRSm3aSulJrpR279ugZ+c2Mvut6Q2hfnf2qjxtsyUT++49Tfknf22BFGa+RE5c1oqQdb9Phl8mSV2fQWyH0lJGS/rHTauj2GjNAz4jkQ=="
+		}
+	},
+	"fog-device-1": {
+		"address": {
+			"host": "DBM6OCY06P7Vb1A+VYwmCqpfxjANWKJpgxZd0bfuONxr0OZbx6RDDDUqgYNg07nWhDz6Rgvnn2TJ8diGgjn4OEXDuaZcSoPW8diFvaCRdGdnU7UtvE54FNFlEgKXx7geD4RhnF6+w7aDA0vCFPQJO8llfdWDgqRfbt62IDqj5njPZz4ppAwFWWlsyuoW9tF/yflqj8yGKf/zBI2YXzHg1GLkDfaKo3IpRMhdSVIBziFqGkV2wCf0Vqtl/JZXnv4TGUt+lgDuTgMEMrJPr2fCHjduqvv8GrAeQVsmetQaUGd+yYmAZGFb9mlPgPVeIOMePdLG+fGeWbTe8GRdS+zTLA==",
+			"port": "cKBKnEwsPEY9WBbovwlpkqlZWaBUL4yaiFtKDprSTGwB+sUrTWnlo3RVvGp6VvyLm6Rr4lxTaixgV7iMRXEyhGrG66p4PeRAGu6eBIA4/oP1J/u688cP8YIc1+/9FELMm/aLnr6bitwuz7Ksy+uAsWFERJxxketz808MgZosYrxG1DVb4yhDm7f9957tdKgSMAEK+9iJbnLZB1vtPFFWbNnTjALvOE4sAKfvHT/WPhIaZMaYR/a8mFw7eUOzLmw8Ap/hOUmt3jvC2QQKUq7JnREUXwBestIU8cQwAyjdF0mAYJJ7ln/Znh2EXgjAzdCr2UNYUx5MJsh51pCIjGtetA=="
+		}
+	}
+}
